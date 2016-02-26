@@ -1,6 +1,6 @@
 # Say Goodbye to Money Confusion :wave: :anguished: :money_with_wings:
 
-Hi! I'll be graduating college next year which means I'll need to know how to balance my money, pay off debt, create budgets, rent an apartment, start a 401k or govt savings account, etc. To be honest, I am pretty lost on how to go about doing most of those things. I know I'm not the only 20-something in this position. There are a lot of resources and information out there, but it's seldom in one place [or maybe I just didn't find that place]. So that's why I created this repo, for me and any other people who are confused about the finances that come with being an adult. I'm sure there are more resource out there than this, so please make pull requests as you see fit!
+Hi! I'll be graduating college next year which means I'll need to know how to balance my money, pay off debt, create budgets, rent an apartment, start a 401k or govt savings account, etc. To be honest, I am pretty lost on how to go about doing most of those things. I know I'm not the only 20-something in this position. A lot of resources exist, but they're hard to find in one place [or maybe I just didn't find that place]. So that's why I created this repo, for me and any other people who are confused about the finances that come with being an adult. I'm sure there are more resource out there than this, so please make pull requests as you see fit!
 
 # Resources
 - [General](#general)
