@@ -1,4 +1,4 @@
-# Say Goodbye to Money Confusion
+# Say Goodbye to Money Confusion :wave: :anguished: :money_with_wings:
 
 # Introduction
 
@@ -131,6 +131,7 @@ Whether it's student loan or credit card debt, debt is a sore subject for many o
 
 [Qapital](https://www.qapital.com)
 
+
 [Traditional IRA vs. Roth IRA](http://www.madfientist.com/traditional-ira-vs-roth-ira/)
 
 [IRA Basics](http://money.cnn.com/retirement/guide/IRA_Basics.moneymag/)
@@ -151,15 +152,15 @@ Investing in pretty intimidating to me, but there are a lot of ways for us to tu
 [Personal Capital Investment Checkup](https://www.personalcapital.com/financial-software/investment-checkup)
 
 
-[The Four Pillars to Investing](http://www.amazon.com/The-Four-Pillars-Investing-Portfolio-ebook/dp/B0041842TW)
+[The Four Pillars to Investing by William J. Bernstein](http://www.amazon.com/The-Four-Pillars-Investing-Portfolio-ebook/dp/B0041842TW)
 
-[The Bogleheads' Guide to Investing](http://www.amazon.com/Bogleheads-Guide-Investing-Taylor-Larimore-ebook/dp/B00JUV01RW/)
+[The Bogleheads' Guide to Investing by Taylor Larimore, Mel Lindauer, and Michael LeBoeuf](http://www.amazon.com/Bogleheads-Guide-Investing-Taylor-Larimore-ebook/dp/B00JUV01RW/)
 
-[Generation Earn: The Young Professional's Guide to Spending, Investing, and Giving Back](http://www.amazon.com/Generation-Earn-Professionals-Spending-Investing/dp/158008236X%3FSubscriptionId%3D0ENGV10E9K9QDNSJ5C82%26tag%3Dflatwave-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D158008236X)
+[Generation Earn: The Young Professional's Guide to Spending, Investing, and Giving Back by Kimberly Palmer](http://www.amazon.com/Generation-Earn-Professionals-Spending-Investing/dp/158008236X%3FSubscriptionId%3D0ENGV10E9K9QDNSJ5C82%26tag%3Dflatwave-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D158008236X)
 
-[Millennial Money: How Young Investors Can Build a Fortune](http://www.amazon.com/Millennial-Money-Young-Investors-Fortune/dp/1137279257)
+[Millennial Money: How Young Investors Can Build a Fortune by Patrick O'Shaughnessy](http://www.amazon.com/Millennial-Money-Young-Investors-Fortune/dp/1137279257)
 
-[The Intelligent Investor](http://www.amazon.com/gp/product/0060555661/ref=as_li_tl?ie=UTF8&camp=211189&creative=373489&creativeASIN=0060555661&link_code=as3&tag=eriwoosmed-20&linkId=Q2FUZHPUOZEA6GNW)
+[The Intelligent Investor by Benjamin Graham and Jason Zweig](http://www.amazon.com/gp/product/0060555661/ref=as_li_tl?ie=UTF8&camp=211189&creative=373489&creativeASIN=0060555661&link_code=as3&tag=eriwoosmed-20&linkId=Q2FUZHPUOZEA6GNW)
 
 
 [Boglehead wiki](https://www.bogleheads.org/wiki/Main_Page)
