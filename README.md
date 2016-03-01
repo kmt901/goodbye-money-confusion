@@ -96,6 +96,8 @@ Here are resources that cover many personal finance topics.
 
 [The Truth About Money](https://itunes.apple.com/us/podcast/truth-about-money-ric-edelman/id274994551?mt=2)
 
+[Wealthsteading Podcast](http://www.wealthsteading.com)
+
 ### Youtube Channels
 
 [Young Adult Finances](https://www.youtube.com/user/YoungAdultFinances/videos)
