@@ -42,6 +42,8 @@ Here are resources that cover many personal finance topics.
 
 [The Financial Diet](http://thefinancialdiet.com)
 
+[Personal Finance Reddit](https://www.reddit.com/r/personalfinance/wiki/commontopics)
+
 ### Books
 
 [The Complete Idiot's Guide to Personal Finance inYour 20s & 30s by Sarah Fisher](http://www.amazon.com/gp/product/1592578837?ie=UTF8&tag=fastweb-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1592578837)
