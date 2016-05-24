@@ -54,6 +54,10 @@ Here are resources that cover many personal finance topics.
 
 [I Will Teach You To Be Rich by Ramit Sethi](http://www.amazon.com/Will-Teach-You-Be-Rich/dp/0761147489/ref=sr_1_23?s=books&ie=UTF8&qid=1456455478&sr=1-23&keywords=student+debt&refinements=p_n_feature_browse-bin%3A2656022011)
 
+[The Index Card: Why Personal Finance Doesn’t Have to Be Complicated](http://www.amazon.com/Index-Card-Personal-Finance-Complicated/dp/1591847680?ie=UTF8&colid=68BWC9LIO5AC&coliid=I3EVW3WX6QJJZ&ref_=wl_it_dp_o_pC_nS_ttl)
+
+
+
 ### Services/Apps
 
 [Nerd Wallet](http://www.nerdwallet.com)
@@ -133,7 +137,6 @@ Whether it's student loan or credit card debt, debt is a sore subject for many o
 
 [Qapital](https://www.qapital.com)
 
-
 [Traditional IRA vs. Roth IRA](http://www.madfientist.com/traditional-ira-vs-roth-ira/)
 
 [IRA Basics](http://money.cnn.com/retirement/guide/IRA_Basics.moneymag/)
@@ -164,6 +167,7 @@ Investing in pretty intimidating to me, but there are a lot of ways for us to tu
 
 [The Intelligent Investor by Benjamin Graham and Jason Zweig](http://www.amazon.com/gp/product/0060555661/ref=as_li_tl?ie=UTF8&camp=211189&creative=373489&creativeASIN=0060555661&link_code=as3&tag=eriwoosmed-20&linkId=Q2FUZHPUOZEA6GNW)
 
+[A Random Walk Down Wall Street: The Time-Tested Strategy for Successful Investing](http://www.amazon.com/Random-Walk-Down-Wall-Street/dp/0393352242)
 
 [Boglehead wiki](https://www.bogleheads.org/wiki/Main_Page)
 
